@@ -36,7 +36,7 @@ Só estudando pra minha futura faculdade de engenharia de software
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/J1Z33MISC22YZB8wfxiIns/NLW-Copa-Explorer/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/SXK9GeINm1W4jv2wJpJq0c/DevLinks-(Community)-(Community)?type=design&node-id=10-620&t=Ni1KWMwr113royMD-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
